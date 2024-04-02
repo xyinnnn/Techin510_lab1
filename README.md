@@ -25,5 +25,9 @@ How to create GitHub Repository for Lab1
 
 
 ## Questions
+*
+How could I change the colors of my text?
+*
+How could I make my improtant text zoom in when the cursor moved on it?
 
 ## Next Steps
