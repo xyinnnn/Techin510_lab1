@@ -16,11 +16,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ## Lessons Learns
-* "*"
+* 
 How to use Streamlit to create a simple website
-* "*"
+* 
 How to use requirements.txt to manage Python dependencies
-* "*"
+* 
 How to create GitHub Repository for Lab1
 
 
