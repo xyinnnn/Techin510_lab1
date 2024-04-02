@@ -7,7 +7,7 @@ always tried new hobbies and gained the strength to adapt to any situation.
 
 I loved making new connections and found design as a way to express my passion for life. 
  ''')
-st.image("/Users/yinxiaorui/Desktop/WechatIMG615.jpg")
+st.image("WechatIMG615.jpg")
 st.header("📚Education")
 
 st.markdown("Artcenter College of Design - Product design major")
